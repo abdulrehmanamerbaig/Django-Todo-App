@@ -1,7 +1,7 @@
 # TODO Application
 
 ## Previewing my project
-<video src="https://drive.google.com/drive/u/0/folders/1K9P2rdGT-HISI0t6cv-p032VId8OY9rE" controls title="Title"></video>
+<video src="TODO PREVIEW.mp4" controls title="Title"></video>
 
 ## About this Project
  ```My endeavour is about creating an application centred around the concept of TODO list that provides one of the best graphical user interfaces to captivate our visitors. Firstly, this application harnesses the power of one of the emerging frameworks which is Django because it provides a substantial amount of pre-built libraries or modules through which we can increase our productivity and quality over quantity. Also, it handles the authentication and authorization system as per the setup.. ```
